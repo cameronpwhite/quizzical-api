@@ -43,6 +43,112 @@
             "quizName": "Example Quiz 4",
             "categoryId": 1,
             "userId": 1
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "General"
         },
+        {
+            "id": 2,
+            "name": "History"
+        },
+        {
+            "id": 3,
+            "name": "Mathematics"
+        },
+        {
+            "id": 4,
+            "name": "Science"
+        },
+        {
+            "id": 5,
+            "name": "Arts"
+        },
+        {
+            "id": 6,
+            "name": "Film"
+        },
+        {
+            "id": 7,
+            "name": "Pop Culture"
+        },
+        {
+            "id": 8,
+            "name": "Geography"
+        }
+    ],
+    "questions": [
+        {
+            "id": 1,
+            "quizId": 1,
+            "questionTypeId": 3,
+            "content": "What is your favorite color?"
+        },
+        {
+            "id": 2,
+            "quizId": 1,
+            "questionTypeId": 3,
+            "content": "What is your favorite color?"
+        },
+        {
+            "id": 3,
+            "quizId": 1,
+            "questionTypeId": 3,
+            "content": "What is your favorite color?"
+        },
+        {
+            "id": 4,
+            "quizId": 1,
+            "questionTypeId": 3,
+            "content": "What is your favorite color?"
+        },
+        {
+            "id": 5,
+            "quizId": 1,
+            "questionTypeId": 3,
+            "content": "What is your favorite color?"
+        }
+    ],
+    "questionTypes": [
+        {
+            "id": 1,
+            "questionType": "True/False"
+        },
+        {
+            "id": 2,
+            "questionType": "Fill in the blank"
+        },
+        {
+            "id": 3,
+            "questionType": "Multiple Choice"
+        }
+    ],
+    "answers": [
+        {
+            "id": 1,
+            "questionId": 1,
+            "content": "Blue",
+            "correct": true
+        },
+        {
+            "id": 2,
+            "questionId": 1,
+            "content": "Green",
+            "correct": false
+        },
+        {
+            "id": 3,
+            "questionId": 1,
+            "content": "Red",
+            "correct": false
+        },
+        {
+            "id": 4,
+            "questionId": 1,
+            "content": "Yellow",
+            "correct": false
+        }
     ]
 }
