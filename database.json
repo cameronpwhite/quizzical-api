@@ -1,0 +1,48 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "email": "cameron@white.com",
+            "password": "white",
+            "displayName": "Cameron White"
+        },
+        {
+            "id": 2,
+            "email": "yvette@jast.com",
+            "password": "jast",
+            "displayName": "Yvette Jast"
+        },
+        {
+            "id": 3,
+            "email": "fernando@cronin.com",
+            "password": "cronin",
+            "displayName": "Fernando Cronin"
+        }
+    ],
+    "quizzes": [
+        {
+            "id": 1,
+            "quizName": "Example Quiz 1",
+            "categoryId": 1,
+            "userId": 1
+        },
+        {
+            "id": 1,
+            "quizName": "Example Quiz 2",
+            "categoryId": 1,
+            "userId": 1
+        },
+        {
+            "id": 1,
+            "quizName": "Example Quiz 3",
+            "categoryId": 1,
+            "userId": 1
+        },
+        {
+            "id": 1,
+            "quizName": "Example Quiz 4",
+            "categoryId": 1,
+            "userId": 1
+        },
+    ]
+}
