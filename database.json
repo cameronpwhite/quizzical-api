@@ -27,19 +27,19 @@
             "userId": 1
         },
         {
-            "id": 1,
+            "id": 2,
             "quizName": "Example Quiz 2",
             "categoryId": 1,
             "userId": 1
         },
         {
-            "id": 1,
+            "id": 3,
             "quizName": "Example Quiz 3",
             "categoryId": 1,
             "userId": 1
         },
         {
-            "id": 1,
+            "id": 4,
             "quizName": "Example Quiz 4",
             "categoryId": 1,
             "userId": 1
